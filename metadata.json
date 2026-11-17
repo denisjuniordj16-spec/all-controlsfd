@@ -1,0 +1,6 @@
+{
+  "name": "DualMap Studio",
+  "description": "Configurador de controle com suporte simultâneo para layouts PlayStation (DualSense) e Xbox (Series X|S), incluindo remapeamento, curvas de analógico e calibração de gatilhos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
